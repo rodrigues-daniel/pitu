@@ -1,0 +1,18 @@
+# Build
+/target/
+**/*.rs.bk
+Cargo.lock
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistemas Operacionais
+.DS_Store
+Thumbs.db
+
+# Node / WASM (se usar frontend)
+node_modules/
+pkg/
